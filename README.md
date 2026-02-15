@@ -4,9 +4,9 @@
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github" />
-</p>
+</p> -->
 
 ---
 
