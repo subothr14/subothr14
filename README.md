@@ -3,6 +3,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github)
 
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -105,17 +110,6 @@ I have been developing full-stack solutions, POS systems, SEO-focused landing pa
 - Microsoft Learn Training  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subothr14&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔗 GitHub Profiles
