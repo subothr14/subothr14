@@ -1,13 +1,7 @@
-# Hi there i am Ragunathan Suboth
-
-
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github)
-
 <h1 align="center">Hi 👋, I'm Ragunathan Suboth</h1>
 <h3 align="center">🚀 Cross-Platform Full-Stack Developer</h3>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github)
 
 ---
 
@@ -115,7 +109,7 @@ I have been developing full-stack solutions, POS systems, SEO-focused landing pa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubothR&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subothr14&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
