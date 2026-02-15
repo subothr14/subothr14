@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there i am Ragunathan Suboth
+
+
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github)
 
 <!--
 **subothr14/subothr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
