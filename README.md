@@ -83,7 +83,7 @@ I have been developing full-stack solutions, POS systems, SEO-focused landing pa
 ### 📌 Showcase Projects
 - Bird Foots Lane Supermarket – London  
 - Alpha Lifestyle  
-- API Pro Landing Page  
+- (API Pro Landing Page)[https://apiproapp.netlify.app/]
 - Movie Hunter Landing Page  
 
 ---
@@ -108,9 +108,6 @@ I have been developing full-stack solutions, POS systems, SEO-focused landing pa
 - Full-Stack Developer Trainee – University of Moratuwa  
 - FreeCodeCamp Certification  
 - Microsoft Learn Training  
-
----
----
 
 ## 🔗 GitHub Profiles
 
