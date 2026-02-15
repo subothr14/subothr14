@@ -81,10 +81,10 @@ I have been developing full-stack solutions, POS systems, SEO-focused landing pa
 - Figma  
 
 ### 📌 Showcase Projects
-- Bird Foots Lane Supermarket – London  
-- Alpha Lifestyle  
+- [Bird Foots Lane Supermarket – London](https://birdfootslane.netlify.app/)  
+- [Alpha Lifestyle](https://alphalifestyle.netlify.app/)  
 - [API Pro Landing Page](https://apiproapp.netlify.app/)
-- Movie Hunter Landing Page  
+- [Movie Hunter Landing Page](https://moviehunterapp.netlify.app/)
 
 ---
 
