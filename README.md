@@ -23,6 +23,8 @@ JavaScript • TypeScript • Python • React • Next.js • React Native • 
 ---
 
 ## 🌐 Projects
+- https://bbdsppvt.com/
+- https://srisales.lk/
 - https://birdfootslane.netlify.app/  
 - https://alphalifestyle.netlify.app/  
 - https://apiproapp.netlify.app/  
