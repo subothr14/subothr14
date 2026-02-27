@@ -10,17 +10,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=github" />
 </p>  -->
 
----
-
-## 👨‍💻 About Me
-Full-Stack Developer building mobile, desktop, and web applications since age 17.
-
----
-
-## 🛠 Tech
-JavaScript • TypeScript • Python • React • Next.js • React Native • Node.js • .NET • Firebase • Azure
-
----
 
 ## 🌐 Projects
 - https://bbdsppvt.com/
