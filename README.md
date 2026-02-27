@@ -14,9 +14,6 @@
 ## 🌐 Projects
 - https://bbdsppvt.com/
 - https://srisales.lk/
-- https://birdfootslane.netlify.app/  
-- https://apiproapp.netlify.app/  
----
 
 ## 🔗 GitHub
 Freelance → https://github.com/subothr14  
