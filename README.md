@@ -13,10 +13,10 @@
 </p>  -->
 
 
-## 🌐 Projects
+## Projects
 - https://bbdsppvt.com/
 - https://srisales.lk/
 - https://mynahfarms.lk/
-## 🔗 GitHub
+## GitHub
 Freelance → https://github.com/subothr14  
 Personal → https://github.com/SubothR  
