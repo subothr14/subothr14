@@ -17,6 +17,7 @@
 - https://bbdsppvt.com/
 - https://srisales.lk/
 - https://mynahfarms.lk/
+- https://wedtamil.com
 ## GitHub
 Freelance → https://github.com/subothr14  
 Personal → https://github.com/SubothR  
