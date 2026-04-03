@@ -10,7 +10,7 @@
 ## Projects
 - ATI Batticaloa Landing Page:  https://atibatti.edu.lk/
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
-- https://srisales.lk/
+- Sri Sales LK: https://srisales.lk/
 - https://mynahfarms.lk/
 - https://wedtamil.com/
 - https://drahilan.com/
