@@ -11,9 +11,9 @@
 - ATI Batticaloa Landing Page:  https://atibatti.edu.lk/
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
 - Sri Sales LK: https://srisales.lk/
-- https://mynahfarms.lk/
-- https://wedtamil.com/
-- https://drahilan.com/
+- Mynah Farms: https://mynahfarms.lk/
+- WedTamil matrimony: https://wedtamil.com/
+- Bussiness Portfolio for doctor: https://drahilan.com/
 ## GitHub
 Freelance → https://github.com/subothr14  
 Personal → https://github.com/SubothR  
