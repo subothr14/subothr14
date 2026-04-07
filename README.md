@@ -10,6 +10,7 @@
 - Next JS
 - React
 - React Native
+- Swift UI
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/
