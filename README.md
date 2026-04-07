@@ -11,6 +11,7 @@
 - React
 - React Native
 - Swift UI
+- Kotlin
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/
