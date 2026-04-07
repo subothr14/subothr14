@@ -13,7 +13,8 @@
 - Mynah Farms: https://mynahfarms.lk/
 - WedTamil matrimony: https://wedtamil.com/
 - Bussiness Portfolio for doctor: https://drahilan.com/
-- Sonala Desktop App
+  
+- Sonala Desktop App: https://sonoladesktop.netlify.app/
   
 ## GitHub
 Freelance → https://github.com/subothr14  
