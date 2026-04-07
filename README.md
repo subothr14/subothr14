@@ -7,7 +7,7 @@
 </p>
 
 ## Projects
-- ATI Batticaloa Website:  https://atibatti.edu.lk/
+- ATI Batticaloa Website (Next JS):  https://atibatti.edu.lk/ 
 - BBDSP Consultant Landing Page: https://bbdsppvt.com/
 - Sri Sales LK: https://srisales.lk/
 - Mynah Farms: https://mynahfarms.lk/
