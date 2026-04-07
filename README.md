@@ -14,6 +14,10 @@
 - WedTamil matrimony: https://wedtamil.com/
 - Bussiness Portfolio for doctor: https://drahilan.com/
 
+
+## More Projects
+  
+- Sonala Desktop App: https://sonoladesktop.netlify.app/
   
 ## GitHub
 Freelance → https://github.com/subothr14  
