@@ -8,6 +8,8 @@
 
 ## Techstack
 - Next JS
+- React
+- React Native
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/
