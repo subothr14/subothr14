@@ -7,6 +7,7 @@
 </p>
 
 ## Techstack
+- Next JS
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/
