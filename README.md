@@ -18,6 +18,8 @@
 ## More Projects
   
 - Sonala Desktop App: https://sonoladesktop.netlify.app/
+
+## Social Profiles
   
 ## GitHub
 Freelance → https://github.com/subothr14  
