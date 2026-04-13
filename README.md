@@ -23,7 +23,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/suboth-r
 - Microsoft Learn: https://www.linkedin.com/in/suboth-r
-- FreeCodeCamp: 
+- FreeCodeCamp: https://www.freecodecamp.org/suboth_r
   
 ## GitHub
 Freelance → https://github.com/subothr14  
