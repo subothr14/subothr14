@@ -22,6 +22,7 @@
 ## Social Profiles
 
 - LinkedIn: https://www.linkedin.com/in/suboth-r
+- Microsoft Learn: 
   
 ## GitHub
 Freelance → https://github.com/subothr14  
