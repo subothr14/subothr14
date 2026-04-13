@@ -21,7 +21,7 @@
 
 ## Social Profiles
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/suboth-r
   
 ## GitHub
 Freelance → https://github.com/subothr14  
