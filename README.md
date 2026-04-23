@@ -17,7 +17,7 @@
 
 ## More Projects
   
-- Sonala Desktop App: https://sonoladesktop.netlify.app/
+- Sonala Desktop App (React Electron): https://sonoladesktop.netlify.app/
 
 ## Social Profiles
 - LinkedIn: https://www.linkedin.com/in/suboth-r
