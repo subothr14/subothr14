@@ -8,7 +8,7 @@
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/ 
-- BBDSP Consultant Landing Page: https://bbdsppvt.com/
+- BBDSP Consultant: https://bbdsppvt.com/
 - Sri Sales LK: https://srisales.lk/
 - Mynah Farms: https://mynahfarms.lk/
 - WedTamil matrimony: https://wedtamil.com/
