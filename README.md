@@ -6,7 +6,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=subothr14)
 
 ## Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/ 
