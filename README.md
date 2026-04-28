@@ -2,9 +2,7 @@
 <h3 align="center">Cross-Platform Full-Stack Engineer</h3>
 
 
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
-</p>
+
 
 ![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
 
