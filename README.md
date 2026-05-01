@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
 
-## Projects
+## My Projects
 - ATI Batticaloa Website:  https://atibatti.edu.lk/ 
 - BBDSP Consultant: https://bbdsppvt.com/
 - Sri Sales LK: https://srisales.lk/
