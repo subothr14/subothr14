@@ -13,7 +13,7 @@
 - BBDSP Consultant (Landing Page for Business Consulting Company): https://bbdsppvt.com/
 - Sri Sales LK (B2B & B2C advertising platform with Google AdsSense): https://srisales.lk/
 - Mynah Farms (Single page website for Farm): https://mynahfarms.lk/
-- WedTamil matrimony: https://wedtamil.com/
+- WedTamil matrimony (Matrimony site): https://wedtamil.com/
 - Bussiness Portfolio for doctor: https://drahilan.com/
 
 
