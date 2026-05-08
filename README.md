@@ -24,7 +24,7 @@
 
 ## Social Profiles
 - LinkedIn: https://www.linkedin.com/in/suboth-r
-- Microsoft Learn: https://www.linkedin.com/in/suboth-r
+- Microsoft Learn Profile: https://www.linkedin.com/in/suboth-r
 - FreeCodeCamp: https://www.freecodecamp.org/suboth_r
   
 ## GitHub
