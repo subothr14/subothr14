@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
 
 ## My Projects
-- ATI Batticaloa Website (Government Institute):  https://atibatti.edu.lk/ 
+- ATI Batticaloa Website (Government Institute with top SEO work):  https://atibatti.edu.lk/ 
 - BBDSP Consultant: https://bbdsppvt.com/
 - Sri Sales LK: https://srisales.lk/
 - Mynah Farms: https://mynahfarms.lk/
