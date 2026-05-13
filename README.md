@@ -6,6 +6,12 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
 </p> 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
 
 ## My Projects
