@@ -4,8 +4,8 @@
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
 </p> 
-<p align="center">
-My Website https://suboth.com/ 
+<p align="center" style="font-size:24px">
+https://suboth.com/ 
 </p>
 <p align="center">
   <a href="https://suboth.com">
