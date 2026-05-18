@@ -9,7 +9,7 @@
 </p> -->
 <p align="center">
   <a href="https://suboth.com">
-    <img src="https://skillicons.dev/icons?i=git,github,javascript,typescript,python,swift,cs,react,nextjs,astro,electron,dotnet,vite,figma,materialui,tailwind,xd,webflow,wordpress,flask,nodejs,npm,express,fastapi,anaconda,pytorch,azure,aws,gcp,vercel,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,sentry,jest,postman,apple,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,cs,react,nextjs,astro,electron,dotnet,vite,figma,materialui,tailwind,xd,webflow,wordpress,flask,nodejs,npm,express,fastapi,anaconda,pytorch,azure,aws,gcp,vercel,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,sentry,jest,postman,apple,windows,linux" />
   </a>
 </p>
 
