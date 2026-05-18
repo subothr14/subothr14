@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<section align="center">
+
 ![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
 
 
