@@ -1,48 +1,119 @@
-<h1 align="center">Hi, I'm Ragunathan Suboth!</h1>
-<h3 align="center">Cross-Platform Full-Stack Engineer</h3>
-
- 
-<!-- <p align="center" style="font-size:54px;">
-    https://suboth.com/ 
-</p> -->
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ragunathan+Suboth+%F0%9F%91%8B;Cross-Platform+Full-Stack+Engineer;Team+Lead+%26+Director+of+IT+Development;Building+for+Web%2C+Mobile%2C+Desktop+%26+AI" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Subothr14&theme=tokyonight" />
+  <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:suboth23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/MS_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
+  <a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" /></a>
 </p>
+
 <p align="center">
-  <a href="https://suboth.com">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,cs,php,react,nextjs,astro,electron,dotnet,vite,figma,materialui,tailwind,xd,webflow,wordpress,flask,nodejs,npm,express,fastapi,anaconda,pytorch,azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,git,github,kubernetes,nginx,sentry,jest,postman,apple,windows,linux" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge&color=2F81F7&label=Profile+Views" alt="Profile Views" />
 </p>
 
+---
 
-![](https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge)
+<!-- ====================== ABOUT ====================== -->
+## 👨‍💻 About Me
 
+Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, with **5+ years** of freelance experience building cross-platform applications across **Android, iOS, Windows, macOS, and Linux**.
 
-## My Portfolio: https://suboth.com
+- 🚀 Currently **Team Lead & Director of IT Development** at **[BBDSP Consultant](https://bbdsppvt.com)**, leading a cross-functional team of **16+ developers** across web, mobile, and AI projects.
+- 💼 Started freelancing at **18** — now serving an active international client roster (B2B/B2C platforms, crypto wallets, AI desktop tools, POS systems & more).
+- 🎓 Pursuing a **BIT (External Degree)** at the **University of Moratuwa** (Oct 2023 – Nov 2026).
+- 🤖 Currently leveling up on the **AI Engineer Learning Path** via Microsoft Learn.
+- 📫 Reach me at **suboth23@gmail.com**
 
+---
 
-## My Projects
-- ATI Batticaloa Website (Government Institute website with top SEO work):  https://atibatti.edu.lk/ 
-- BBDSP Consultant (Landing Page for Business Consulting Company): https://bbdsppvt.com/
-- Sri Sales LK (B2B & B2C advertising platform with Google AdsSense): https://srisales.lk/
-- Mynah Farms (Single page website for Farm): https://mynahfarms.lk/
-- WedTamil matrimony (Matrimony site): https://wedtamil.com/
-- Bussiness Portfolio for doctor: https://drahilan.com/
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,kotlin,cs,cpp,java,php" alt="languages" />
+</p>
 
-## More Projects
-  
-- Sonala Desktop App (React Electron): https://sonoladesktop.netlify.app/
-- API Pro Landing Page (Landingpage Template): https://apiproapp.netlify.app/
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,electron,vite,tailwind,materialui,figma,xd,webflow,wordpress" alt="frontend" />
+</p>
 
-## Social Profiles
-- LinkedIn: https://www.linkedin.com/in/suboth-r
-- Microsoft Learn Profile: https://learn.microsoft.com/en-us/users/suboth
-- FreeCodeCamp Profile: https://www.freecodecamp.org/suboth_r
-  
-## GitHub
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,graphql,npm,postman" alt="backend" />
+</p>
 
-Work → https://github.com/subothr14 
- 
-Personal → https://github.com/SubothR  
+**Cloud, DevOps & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
+</p>
+
+**AI, Blockchain & Tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,anaconda,sentry,jest" alt="ai-tools" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=flat&logo=stabilityai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3dotjs&logoColor=white" />
+</p>
+
+**Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux" alt="platforms" />
+</p>
+
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🌟 Featured Projects
+
+| Project | Description | Tech | Link |
+| :------ | :---------- | :--- | :--- |
+| **🎓 ATI Batticaloa** | High-performance, SEO-optimized website for a Sri Lankan government institute showcasing HND programs. | `Next.js` `Firebase` `Vercel` `GSAP` | [Live ↗](https://atibatti.edu.lk/) |
+| **📢 SriSales.lk** | Live B2B/B2C advertising platform helping businesses & startups grow online, monetized with AdSense. | `React+Vite` `Node.js` `Firebase` `Azure` | [Live ↗](https://srisales.lk/) |
+| **💼 BBDSP Consultant** | Corporate landing page for an IT & business consulting firm. | `Next.js` `Tailwind` | [Live ↗](https://bbdsppvt.com/) |
+| **💍 WedTamil** | Full matrimony platform with profiles, search & messaging. | `Next.js` | [Live ↗](https://wedtamil.com/) |
+| **🩺 Dr. Ahilan** | Professional business portfolio site for a medical practitioner. | `Next.js` `Framer Motion` | [Live ↗](https://drahilan.com/) |
+| **🌾 Mynah Farms** | Clean single-page brand site for an agricultural business. | `Next.js` | [Live ↗](https://mynahfarms.lk/) |
+| **🎨 Sonala** | Canva-inspired cross-platform desktop photo editor with AI features (Stable Diffusion + Azure AI). | `React Electron` `Flask` `Supabase` | [Live ↗](https://sonoladesktop.netlify.app/) · [Repo ↗](https://github.com/subothr14/sonola) |
+| **⭐ StarWallet** | Solana-based crypto exchange app inspired by Binance & Phantom Wallet. | `React Native` `Solana` `Node.js` | _Personal Project_ |
+| **🕹️ GameLab** | Cloud gaming platform concept with social features — full UX research & prototyping. | `Figma` `Prototyping` | _Design Concept_ |
+| **⚡ API Pro** | Reusable landing-page template for SaaS products. | `React` | [Live ↗](https://apiproapp.netlify.app/) |
+
+---
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subothr14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subothr14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+---
+
+<!-- ====================== ELSEWHERE ====================== -->
+## 🔗 Find Me Around GitHub
+
+- 💻 **Work** → [github.com/subothr14](https://github.com/subothr14)
+- 🧪 **Personal** → [github.com/SubothR](https://github.com/SubothR)
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a> — let's build something great together.</i>
+</p>
