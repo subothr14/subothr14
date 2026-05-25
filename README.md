@@ -26,7 +26,7 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 - 💼 Started freelancing at **18** — now serving an active international client roster (B2B/B2C platforms, crypto wallets, AI desktop tools, POS systems & more).
 - 🎓 Pursuing a **BIT (External Degree)** at the **University of Moratuwa** (Oct 2023 – Nov 2026).
 - 🤖 Currently leveling up on the **AI Engineer Learning Path** via Microsoft Learn.
-- 📫 Reach me at **suboth23@gmail.com**
+
 
 ---
 
@@ -115,5 +115,5 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 - 🧪 **Personal** → [github.com/SubothR](https://github.com/SubothR)
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a> — let's build something great together.</i>
+  <i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a></i>
 </p>
