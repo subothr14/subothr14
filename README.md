@@ -50,7 +50,7 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 
 **Cloud, DevOps & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,hostinger,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
 </p>
 
 **AI, Blockchain & Tooling**
