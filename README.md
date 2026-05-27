@@ -96,11 +96,6 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subothr14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subothr14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
