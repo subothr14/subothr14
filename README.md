@@ -93,10 +93,6 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 
 ---
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Stats
-
-
 
 ---
 
