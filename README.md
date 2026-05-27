@@ -91,10 +91,6 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 | **🕹️ GameLab** | Cloud gaming platform concept with social features — full UX research & prototyping. | `Figma` `Prototyping` | _Design Concept_ |
 | **⚡ API Pro** | Reusable landing-page template for SaaS products. | `React` | [Live ↗](https://apiproapp.netlify.app/) |
 
----
-
-
----
 
 <!-- ====================== ELSEWHERE ====================== -->
 ## 🔗 Find Me Around GitHub
