@@ -19,7 +19,7 @@
 
 ---
 
-<!-- ====================== ABOUT ====================== -->
+
 ## 👨‍💻 About Me
 
 Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, with **5+ years** of freelance experience building cross-platform applications across **Android, iOS, Windows, macOS, and Linux**.
