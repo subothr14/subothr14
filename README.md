@@ -32,7 +32,6 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -74,7 +73,6 @@ Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, wit
 
 ---
 
-<!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🌟 Featured Projects
 
 | Project | Description | Tech | Link |
