@@ -9,8 +9,7 @@
   <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
  
-  <a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/MS_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft         Learn" /></a>
-   <a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>  </a>
+  
 </p>
 
 <p align="center">
