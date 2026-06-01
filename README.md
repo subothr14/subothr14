@@ -1,117 +1,245 @@
-<!-- <h1 align="center">
- ## Hello
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ragunathan+Suboth+%F0%9F%91%8B;Cross-Platform+Full-Stack+Engineer;" alt="Typing SVG" /> -->
+<div align="center">
 
-<h3 align="center">
- Hello I'm
-</h3>
+<!-- ====================== HEADER ====================== -->
 
-<h1 align="center">
- Suboth Ragunathan
-</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suboth%20Ragunathan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Cross-Platform%20Engineer&descAlignY=55&descSize=18)
 
-<h2 align="center">
- Full-Stack Cross Platform Engineer
-</h2>
+<a href="https://suboth.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;Team+Lead+%40+BBDSP+Consultant;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- ====================== SOCIAL BADGES ====================== -->
 
+<a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/MS_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
+<a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
 
-<p align="center">
- 
-  <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- <br/>
-  <a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/MS_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft         Learn" /></a>
-   <a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>  </a>
-  
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge&color=2F81F7&label=Profile+Views" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile Views" />
 
----
+</div>
 
+<br/>
 
-## 👨‍💻 About Me
+<!-- ====================== ABOUT ====================== -->
 
-Results-driven **Full-Stack Engineer** based in 🇱🇰 Colombo, Sri Lanka, with **5+ years** of freelance experience building cross-platform applications across **Android, iOS, Windows, macOS, and Linux**.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-- 🚀 Currently **Team Lead & Director of IT Development** at **[BBDSP Consultant](https://bbdsppvt.com)**, leading a cross-functional team of **16+ developers** across web, mobile, and AI projects.
-- 💼 Started freelancing at **18** — now serving an active international client roster (B2B/B2C platforms, crypto wallets, AI desktop tools, POS systems & more).
-- 🎓 Pursuing a **BIT (External Degree)** at the **University of Moratuwa** (Oct 2023 – Nov 2026).
-- 🤖 Currently leveling up on the **AI Engineer Learning Path** via Microsoft Learn.
+```ts
+const suboth = {
+  role: "Team Lead & Director of IT Development @ BBDSP Consultant",
+  location: "🇱🇰 Colombo, Sri Lanka",
+  experience: "5+ years (started freelancing at 18)",
+  team: "Leading 16+ developers across web, mobile & AI",
+  platforms: ["Android", "iOS", "Windows", "macOS", "Linux"],
+  building: ["B2B/B2C platforms", "crypto wallets", "AI desktop tools", "POS systems"],
+  education: "BIT (External) @ University of Moratuwa — Oct 2023–Nov 2026",
+  learning: "AI Engineer Learning Path via Microsoft Learn",
+  motto: "Ship cross-platform. Ship polished. Ship fast.",
+};
+```
 
+> 🚀 Results-driven **Full-Stack Engineer** delivering cross-platform applications for an active international client roster.
 
----
+<br/>
+
+<!-- ====================== TECH STACK ====================== -->
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 💬 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,kotlin,cs,cpp,java,php" alt="languages" />
 </p>
 
-**Frontend**
+#### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,electron,vite,tailwind,materialui,figma,xd,webflow,wordpress" alt="frontend" />
 </p>
 
-**Backend & APIs**
+#### ⚙️ Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,graphql,npm,postman" alt="backend" />
 </p>
 
-**Cloud, DevOps & Databases**
+</td>
+<td valign="top" width="50%">
+
+#### ☁️ Cloud, DevOps & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
 </p>
 
-**AI, Blockchain & Tooling**
+#### 🤖 AI, Blockchain & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,anaconda,sentry,jest" alt="ai-tools" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=flat&logo=stabilityai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3dotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,anaconda,sentry,jest" alt="ai-tools" /><br/>
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=flat-square&logo=stabilityai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
 </p>
 
-**Platforms**
+#### 🖥️ Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=apple,windows,linux" alt="platforms" />
 </p>
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ====================== GITHUB STATS ====================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subothr14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech | Link |
-| :------ | :---------- | :--- | :--- |
-| **🎓 ATI Batticaloa** | High-performance, SEO-optimized website for a Sri Lankan government institute showcasing HND programs. | `Next.js` `Firebase` `Vercel` `GSAP` | [Live ↗](https://atibatti.edu.lk/) |
-| **📢 SriSales.lk** | Live B2B/B2C advertising platform helping businesses & startups grow online, monetized with AdSense. | `React+Vite` `Node.js` `Firebase` `Azure` | [Live ↗](https://srisales.lk/) |
-| **💼 BBDSP Consultant** | Corporate landing page for an IT & business consulting firm. | `Next.js` `Tailwind` | [Live ↗](https://bbdsppvt.com/) |
-| **💍 WedTamil** | Full matrimony platform with profiles, search & messaging. | `Next.js` | [Live ↗](https://wedtamil.com/) |
-| **🩺 Dr. Ahilan** | Professional business portfolio site for a medical practitioner. | `Next.js` `Framer Motion` | [Live ↗](https://drahilan.com/) |
-| **🌾 Mynah Farms** | Clean single-page brand site for an agricultural business. | `Next.js` | [Live ↗](https://mynahfarms.lk/) |
-| **🎨 Sonala** | Canva-inspired cross-platform desktop photo editor with AI features (Stable Diffusion + Azure AI). | `React Electron` `Flask` `Supabase` | [Live ↗](https://sonoladesktop.netlify.app/) · [Repo ↗](https://github.com/subothr14/sonola) |
-| **⭐ StarWallet** | Solana-based crypto exchange app inspired by Binance & Phantom Wallet. | `React Native` `Solana` `Node.js` | _Personal Project_ |
-| **🕹️ GameLab** | Cloud gaming platform concept with social features — full UX research & prototyping. | `Figma` `Prototyping` | _Design Concept_ |
-| **⚡ API Pro** | Reusable landing-page template for SaaS products. | `React` | [Live ↗](https://apiproapp.netlify.app/) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech</th>
+<th>Link</th>
+</tr>
 
+<tr>
+<td><b>🎓 ATI Batticaloa</b></td>
+<td>High-performance, SEO-optimized website for a Sri Lankan government institute showcasing HND programs.</td>
+<td><code>Next.js</code> <code>Firebase</code> <code>Vercel</code> <code>GSAP</code></td>
+<td><a href="https://atibatti.edu.lk/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>📢 SriSales.lk</b></td>
+<td>Live B2B/B2C advertising platform helping businesses & startups grow online, monetized with AdSense.</td>
+<td><code>React+Vite</code> <code>Node.js</code> <code>Firebase</code> <code>Azure</code></td>
+<td><a href="https://srisales.lk/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>💼 BBDSP Consultant</b></td>
+<td>Corporate landing page for an IT & business consulting firm.</td>
+<td><code>Next.js</code> <code>Tailwind</code></td>
+<td><a href="https://bbdsppvt.com/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>💍 WedTamil</b></td>
+<td>Full matrimony platform with profiles, search & messaging.</td>
+<td><code>Next.js</code></td>
+<td><a href="https://wedtamil.com/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>🩺 Dr. Ahilan</b></td>
+<td>Professional business portfolio site for a medical practitioner.</td>
+<td><code>Next.js</code> <code>Framer Motion</code></td>
+<td><a href="https://drahilan.com/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>🌾 Mynah Farms</b></td>
+<td>Clean single-page brand site for an agricultural business.</td>
+<td><code>Next.js</code></td>
+<td><a href="https://mynahfarms.lk/">Live ↗</a></td>
+</tr>
+
+<tr>
+<td><b>🎨 Sonala</b></td>
+<td>Canva-inspired cross-platform desktop photo editor with AI features (Stable Diffusion + Azure AI).</td>
+<td><code>React Electron</code> <code>Flask</code> <code>Supabase</code></td>
+<td><a href="https://sonoladesktop.netlify.app/">Live ↗</a> · <a href="https://github.com/subothr14/sonola">Repo ↗</a></td>
+</tr>
+
+<tr>
+<td><b>⭐ StarWallet</b></td>
+<td>Solana-based crypto exchange app inspired by Binance & Phantom Wallet.</td>
+<td><code>React Native</code> <code>Solana</code> <code>Node.js</code></td>
+<td><i>Personal Project</i></td>
+</tr>
+
+<tr>
+<td><b>🕹️ GameLab</b></td>
+<td>Cloud gaming platform concept with social features — full UX research & prototyping.</td>
+<td><code>Figma</code> <code>Prototyping</code></td>
+<td><i>Design Concept</i></td>
+</tr>
+
+<tr>
+<td><b>⚡ API Pro</b></td>
+<td>Reusable landing-page template for SaaS products.</td>
+<td><code>React</code></td>
+<td><a href="https://apiproapp.netlify.app/">Live ↗</a></td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ====================== TROPHIES ====================== -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subothr14&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+
+<br/>
 
 <!-- ====================== ELSEWHERE ====================== -->
+
 ## 🔗 Find Me Around GitHub
 
-- 💻 **Work** → [github.com/subothr14](https://github.com/subothr14)
-- 🧪 **Personal** → [github.com/SubothR](https://github.com/SubothR)
+<table>
+<tr>
+<td>💻 <b>Work</b></td>
+<td><a href="https://github.com/subothr14">github.com/subothr14</a></td>
+</tr>
+<tr>
+<td>🧪 <b>Personal</b></td>
+<td><a href="https://github.com/SubothR">github.com/SubothR</a></td>
+</tr>
+</table>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a></i>
-</p>
+<br/>
+
+<!-- ====================== FOOTER ====================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+<i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a> — thanks for stopping by!</i>
+
+</div>
