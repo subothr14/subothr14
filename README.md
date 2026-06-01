@@ -6,8 +6,9 @@
  Hello I'm
 </p>
 
-
-# Suboth Ragunathan
+<h1 align="center">
+ Suboth Ragunathan
+</h1>
 
 
 <p align="center">
