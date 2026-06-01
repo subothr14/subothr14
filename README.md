@@ -8,10 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;Team+Lead+%40+BBDSP+Consultant;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
 </a>
 
-<img 
+<!-- <img 
   height="180em" 
   src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" 
-  alt="GitHub Stats" />
+  alt="GitHub Stats" /> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14"/>
 
 <br/>
 
