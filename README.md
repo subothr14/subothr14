@@ -13,7 +13,7 @@
   src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" 
   alt="GitHub Stats" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subothr14bg_color=0D1117"/>
 
 <br/>
 
