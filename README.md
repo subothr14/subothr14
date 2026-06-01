@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suboth%20Ragunathan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Cross-Platform%20Engineer&descAlignY=55&descSize=18)
 
 <a href="https://suboth.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;Team+Lead+%40+BBDSP+Consultant;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
 </a>
 
 <!-- <img 
