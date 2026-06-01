@@ -10,9 +10,9 @@
  Suboth Ragunathan
 </h1>
 
-<h1 align="center">
+<h2 align="center">
  Full-Stack Cross Platform Engineer
-</h1>
+</h2>
 
 
 <p align="center">
