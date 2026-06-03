@@ -57,8 +57,6 @@ const suboth = {
 
 <br/>
 
-<!-- ====================== TECH STACK ====================== -->
-
 ## 🛠️ Tech Stack
 
 <table align="center">
