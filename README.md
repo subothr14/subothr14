@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ====================== HEADER ====================== -->
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suboth%20Ragunathan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Cross-Platform%20Engineer&descAlignY=55&descSize=18)
 
 
@@ -12,15 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
 </a>
 
-<!-- <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=subothr14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" 
-  alt="GitHub Stats" /> -->
-
 
 <br/>
-
-<!-- ====================== SOCIAL BADGES ====================== -->
 
 <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -35,7 +26,7 @@
 
 <br/>
 
-<!-- ====================== ABOUT ====================== -->
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
@@ -108,14 +99,11 @@ const suboth = {
 
 <br/>
 
-<!-- ====================== GITHUB STATS ====================== -->
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subothr14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&langs_count=8" alt="Top Languages" /> -->
 
 <br/>
 
@@ -129,7 +117,6 @@ const suboth = {
 
 <br/>
 
-<!-- ====================== FEATURED PROJECTS ====================== -->
 
 ## 🌟 Featured Projects
 
@@ -215,7 +202,6 @@ const suboth = {
 
 <br/>
 
-<!-- ====================== TROPHIES ====================== -->
 
 ## 🏆 GitHub Trophies
 
@@ -225,7 +211,6 @@ const suboth = {
 
 <br/>
 
-<!-- ====================== ELSEWHERE ====================== -->
 
 ## 🔗 Find Me Around GitHub
 
@@ -241,8 +226,6 @@ const suboth = {
 </table>
 
 <br/>
-
-<!-- ====================== FOOTER ====================== -->
 
 <div align="center">
 
