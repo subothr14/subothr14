@@ -205,9 +205,9 @@ const suboth = {
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subothr14&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
+</div> -->
 
 <br/>
 
