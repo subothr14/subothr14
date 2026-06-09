@@ -111,7 +111,7 @@ const suboth = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="Activity Graph" width="95%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=subothr14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="Activity Graph" width="95%" /> -->
 
 </div>
 
