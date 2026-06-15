@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+across+Android%2C+iOS%2C+Web+%26+Desktop;5%2B+years+of+freelance+engineering;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform" alt="Typing SVG" />
 </a>
 
-
 <br/>
 
 <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
