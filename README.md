@@ -86,7 +86,7 @@ const suboth = {
 
 #### 🖥️ Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux" alt="platforms" />
+  <img src="https://skillicons.dev/icons?i=apple,android,windows,linux" alt="platforms" />
 </p>
 
 </td>
