@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=SUBOTH%20RAGUNATHAN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Cross-Platform%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=20&descColor=8A8AFF"/>
 
 <a href="https://suboth.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Team+Lead+%40+BBDSP+Consultant;Leading+16%2B+Engineers+Across+3+Continents;Android+%E2%80%A2+iOS+%E2%80%A2+Web+%E2%80%A2+Desktop;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform+Native"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Leading+16%2B+Engineers+Across+3+Continents;Android+%E2%80%A2+iOS+%E2%80%A2+Web+%E2%80%A2+Desktop;AI+%E2%80%A2+Blockchain+%E2%80%A2+Cross-Platform+Native"/>
 </a>
 
 <br/>
