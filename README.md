@@ -206,6 +206,6 @@ const suboth = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-<i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a> — thanks for stopping by!</i>
+<i>⭐️ From <a href="https://github.com/subothr14">Ragunathan Suboth</a> </i>
 
 </div>
