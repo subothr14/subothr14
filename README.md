@@ -113,7 +113,7 @@ const suboth = {
 <tr>
 <td><b>🎓 ATI Batticaloa</b></td>
 <td>High-performance, SEO-optimized website for a Sri Lankan government institute showcasing HND programs.</td>
-<td><code>Next.js</code> <code>Firebase</code> <code>Vercel</code> <code>GSAP</code></td>
+<td><code>Next.js</code> <code>Firebase</code> <code>Vercel</code> <code>Framer-Motion</code></td>
 <td><a href="https://atibatti.edu.lk/">Live ↗</a></td>
 </tr>
 
