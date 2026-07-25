@@ -40,7 +40,7 @@ const suboth = {
 };
 ```
 
-> 🚀 Results-driven **Full-Stack Engineer** delivering cross-platform applications for an active international client roster.
+> 
 
 <br/>
 
