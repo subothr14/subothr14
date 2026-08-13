@@ -72,7 +72,7 @@ const suboth = {
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
 </p>
 
-#### 🤖 AI, Blockchain & Tooling
+#### AI, Blockchain & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,anaconda,sentry,jest" alt="ai-tools" /><br/>
   <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
