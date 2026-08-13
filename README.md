@@ -83,7 +83,7 @@ const suboth = {
   <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
 </p>
 
-#### 🖥️ Platforms
+#### Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=apple,windows,linux" alt="platforms" />
 </p>
