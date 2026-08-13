@@ -54,7 +54,7 @@ const suboth = {
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,kotlin,cs,cpp,java,php" alt="languages" />
 </p>
 
-#### 🎨 Frontend
+#### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,electron,vite,tailwind,materialui,figma,xd,webflow,wordpress" alt="frontend" />
 </p>
