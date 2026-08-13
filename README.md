@@ -59,7 +59,7 @@ const suboth = {
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,electron,vite,tailwind,materialui,figma,xd,webflow,wordpress" alt="frontend" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,dotnet,graphql,npm,postman" alt="backend" />
 </p>
