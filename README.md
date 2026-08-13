@@ -43,7 +43,7 @@ const suboth = {
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
