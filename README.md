@@ -49,7 +49,7 @@ const suboth = {
 <tr>
 <td valign="top" width="50%">
 
-#### 💬 Languages
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,swift,kotlin,cs,cpp,java,php" alt="languages" />
 </p>
