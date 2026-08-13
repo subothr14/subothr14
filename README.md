@@ -67,7 +67,7 @@ const suboth = {
 </td>
 <td valign="top" width="50%">
 
-#### ☁️ Cloud, DevOps & Databases
+#### Cloud, DevOps & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare,netlify,firebase,supabase,mysql,postgres,mongodb,docker,kubernetes,nginx,git,github" alt="cloud" />
 </p>
