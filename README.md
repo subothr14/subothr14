@@ -138,7 +138,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>🩺 Dr. Ahilan</b></td>
+<td><b>Dr. Ahilan</b></td>
 <td>Professional business portfolio site for a medical practitioner.</td>
 <td><code>Next.js</code> <code>Framer Motion</code></td>
 <td><a href="https://drahilan.com/">Live ↗</a></td>
