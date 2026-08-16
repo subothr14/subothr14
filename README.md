@@ -99,7 +99,7 @@ const suboth = {
 <br/>
 
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
