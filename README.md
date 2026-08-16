@@ -124,7 +124,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>💼 BBDSP Consultant</b></td>
+<td><b>BBDSP Consultant</b></td>
 <td>Corporate landing page for an IT & business consulting firm.</td>
 <td><code>Next.js</code> <code>Tailwind</code></td>
 <td><a href="https://bbdsppvt.com/">Live ↗</a></td>
