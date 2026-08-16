@@ -159,7 +159,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>⭐ StarWallet</b></td>
+<td><b>StarWallet</b></td>
 <td>Solana-based crypto exchange app inspired by Binance & Phantom Wallet.</td>
 <td><code>React Native</code> <code>Solana</code> <code>Node.js</code></td>
 <td><i>Personal Project</i></td>
