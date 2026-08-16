@@ -117,7 +117,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>📢 SriSales.lk</b></td>
+<td><b>SriSales LK</b></td>
 <td>Live B2B/B2C advertising platform helping businesses & startups grow online, monetized with AdSense.</td>
 <td><code>React+Vite</code> <code>Node.js</code> <code>Firebase</code> <code>Azure</code></td>
 <td><a href="https://srisales.lk/">Live ↗</a></td>
