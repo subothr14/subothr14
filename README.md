@@ -131,7 +131,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>💍 WedTamil</b></td>
+<td><b>WedTamil</b></td>
 <td>Full matrimony platform with profiles, search & messaging.</td>
 <td><code>Next.js</code></td>
 <td><a href="https://wedtamil.com/">Live ↗</a></td>
