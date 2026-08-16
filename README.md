@@ -152,7 +152,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>🎨 Sonala</b></td>
+<td><b>Sonala</b></td>
 <td>Canva-inspired cross-platform desktop photo editor with AI features (Stable Diffusion + Azure AI).</td>
 <td><code>React Electron</code> <code>Flask</code> <code>Supabase</code></td>
 <td><a href="https://sonoladesktop.netlify.app/">Live ↗</a> · <a href="https://github.com/subothr14/sonola">Repo ↗</a></td>
