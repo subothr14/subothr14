@@ -166,14 +166,14 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>🕹️ GameLab</b></td>
+<td><b>GameLab</b></td>
 <td>Cloud gaming platform concept with social features — full UX research & prototyping.</td>
 <td><code>Figma</code> <code>Prototyping</code></td>
 <td><i>Design Concept</i></td>
 </tr>
 
 <tr>
-<td><b>⚡ API Pro</b></td>
+<td><b>API Pro</b></td>
 <td>Reusable landing-page template for SaaS products.</td>
 <td><code>React</code></td>
 <td><a href="https://apiproapp.netlify.app/">Live ↗</a></td>
