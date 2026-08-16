@@ -145,7 +145,7 @@ const suboth = {
 </tr>
 
 <tr>
-<td><b>🌾 Mynah Farms</b></td>
+<td><b>Mynah Farms</b></td>
 <td>Clean single-page brand site for an agricultural business.</td>
 <td><code>Next.js</code></td>
 <td><a href="https://mynahfarms.lk/">Live ↗</a></td>
