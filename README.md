@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-```py
+```ts
 const suboth = {
   role: "Team Lead & Director of IT Development @ BBDSP Consultant",
   location: "🇱🇰 Colombo, Sri Lanka",
