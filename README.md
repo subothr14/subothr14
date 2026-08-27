@@ -117,6 +117,13 @@ const suboth = {
 </tr>
 
 <tr>
+<td><b>ChillHutz</b></td>
+<td>High-Performance Hotel Website</td>
+<td><code>Next.js</code> <code>Firebase</code> <code>Vercel</code> <code>Framer-Motion</code> </td>
+<td><a href="https://atibatti.edu.lk/">Live ↗</a></td>
+</tr>
+
+<tr>
 <td><b>SriSales LK</b></td>
 <td>Live B2B/B2C advertising platform helping businesses & startups grow online, monetized with AdSense.</td>
 <td><code>React+Vite</code> <code>Node.js</code> <code>Firebase</code> <code>Azure</code></td>
