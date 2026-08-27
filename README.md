@@ -120,7 +120,7 @@ const suboth = {
 <td><b>ChillHutz</b></td>
 <td>High-Performance Hotel Website</td>
 <td><code>Next.js</code> <code>Firebase</code> <code>Lenis</code> <code>Vercel</code> <code>Framer-Motion</code> </td>
-<td><a href="https://atibatti.edu.lk/">Live ↗</a></td>
+<td><a href="https://chillhutz.lk/">Live ↗</a></td>
 </tr>
 
 <tr>
