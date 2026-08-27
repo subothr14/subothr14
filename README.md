@@ -118,7 +118,7 @@ const suboth = {
 
 <tr>
 <td><b>ChillHutz</b></td>
-<td>High-Performance Hotel Website</td>
+<td>High-Performance hotel website with seo, aeo optmization</td>
 <td><code>Next.js</code> <code>Firebase</code> <code>Lenis</code> <code>Vercel</code> <code>Framer-Motion</code> </td>
 <td><a href="https://chillhutz.lk/">Live ↗</a></td>
 </tr>
