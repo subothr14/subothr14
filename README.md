@@ -28,7 +28,7 @@
 
 ```ts
 const suboth = {
-  role: "Team Lead & Director of IT Development @ BBDSP Consultant",
+  role: "Team Lead & Director of IT Development",
   location: "🇱🇰 Colombo, Sri Lanka",
   experience: "5+ years (started freelancing at 18)",
   team: "Leading 16+ developers across web, mobile & AI",
