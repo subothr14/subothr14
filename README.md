@@ -30,7 +30,7 @@
 const suboth = {
   role: "Team Lead & Director of IT Development",
   location: "🇱🇰 Colombo, Sri Lanka",
-  experience: "5+ years (started freelancing at 18)",
+  experience: "5+ years",
   team: "Leading 16+ developers across web, mobile & AI",
   platforms: ["Android", "iOS", "Windows", "macOS", "Linux"],
   building: ["B2B/B2C platforms", "crypto wallets", "AI desktop tools", "POS systems"],
