@@ -39,8 +39,6 @@ const suboth = {
 
 > 
 
-
-
 ## Tech Stack
 
 <table align="center">
