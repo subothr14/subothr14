@@ -93,7 +93,7 @@ const suboth = {
 
 </div>
 
-<br/>
+
 ## Featured Projects
 
 <table>
