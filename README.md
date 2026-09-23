@@ -9,7 +9,6 @@
 </a>
 
 <br/>
-
 <a href="https://suboth.com"><img src="https://img.shields.io/badge/Portfolio-suboth.com-2F81F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.fiverr.com/suboth23"><img src="https://img.shields.io/badge/Fiverr-suboth23-green" alt="LinkedIn" /></a>
