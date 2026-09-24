@@ -14,7 +14,6 @@
 <a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/MS_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
 <a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=subothr14&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile Views" />
 
