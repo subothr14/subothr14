@@ -33,7 +33,6 @@ const suboth = {
   motto: "Ship cross-platform. Ship polished. Ship fast.",
 };
 ```
-
 > 
 
 ## Tech Stack
