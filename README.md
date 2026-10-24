@@ -23,7 +23,7 @@
 
 ```ts
 const suboth = {
-  role: "",
+  role: "Founder & CEO of SetaByte",
   location: "🇱🇰 Colombo, Sri Lanka",
   experience: "5+ years",
   team: "Leading 16+ developers across web, mobile & AI",
