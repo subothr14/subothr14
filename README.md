@@ -23,7 +23,7 @@
 
 ```ts
 const suboth = {
-  role: "Team Lead & Director of IT Development",
+  role: "",
   location: "🇱🇰 Colombo, Sri Lanka",
   experience: "5+ years",
   team: "Leading 16+ developers across web, mobile & AI",
