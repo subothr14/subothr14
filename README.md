@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-```py
+```swift
 const suboth = {
   role: "Founder & CEO of SetaByte",
   location: "🇱🇰 Colombo, Sri Lanka",
