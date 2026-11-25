@@ -5,7 +5,7 @@
 <a href="https://setabyte.com"><img src="https://img.shields.io/badge/Company-SetaByte-16343D?style=flat-square&labelColor=0F2027&logo=rocket&logoColor=2FB39B" alt="SetaByte" /></a>
 <a href="https://www.linkedin.com/in/suboth-r"><img src="https://img.shields.io/badge/LinkedIn-suboth--r-16343D?style=flat-square&labelColor=0F2027&logo=linkedin&logoColor=2FB39B" alt="LinkedIn" /></a>
 <a href="https://www.fiverr.com/suboth23"><img src="https://img.shields.io/badge/Fiverr-Hire_me-16343D?style=flat-square&labelColor=0F2027&logo=fiverr&logoColor=2FB39B" alt="Fiverr" /></a>
-<a href="mailto:suboth23@gmail.com"><img src="https://img.shields.io/badge/Email-suboth23%40gmail.com-16343D?style=flat-square&labelColor=0F2027&logo=gmail&logoColor=2FB39B" alt="Email" /></a>
+<a href="mailto:suboth@setabyte.com"><img src="https://img.shields.io/badge/Email-suboth@setabyte.com-16343D?style=flat-square&labelColor=0F2027&logo=gmail&logoColor=2FB39B" alt="Email" /></a>
 <a href="https://learn.microsoft.com/en-us/users/suboth"><img src="https://img.shields.io/badge/Microsoft_Learn-AI_Engineer_path-16343D?style=flat-square&labelColor=0F2027&logo=microsoft&logoColor=F2A33A" alt="Microsoft Learn" /></a>
 <a href="https://www.freecodecamp.org/suboth_r"><img src="https://img.shields.io/badge/freeCodeCamp-Certified-16343D?style=flat-square&labelColor=0F2027&logo=freecodecamp&logoColor=F2A33A" alt="freeCodeCamp" /></a>
 </p>
